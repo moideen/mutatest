@@ -30,6 +30,8 @@ Features:
 
 :code:`mutatest` is alpha-software, see the `CHANGELOG`_ for updates.
 
+------------------------------------------
+
 .. contents:: Table of contents
    :backlinks: top
    :depth: 1
