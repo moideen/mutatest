@@ -28,8 +28,12 @@ Features:
     - Built for efficiency with multiple running modes and random sampling of mutation targets.
     - Flexible enough to run on a whole package or a single file.
 
-
 :code:`mutatest` is alpha-software, see the `CHANGELOG`_ for updates.
+
+.. contents:: Table of contents
+   :backlinks: top
+   :depth: 1
+
 
 Installation
 ============
